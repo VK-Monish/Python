@@ -1,0 +1,10 @@
+a=10
+_a=20
+name1="scl"
+name2="linux"
+age=25
+print(a)
+print(_a)
+print(name1)
+print(name2)
+print(age)
